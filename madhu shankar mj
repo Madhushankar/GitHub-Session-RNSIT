@@ -1,0 +1,84 @@
+	
+	<html>
+	<head>
+                      <title> hello bro  </title>
+                      <script>
+                               <td><input type ="button" value='try me' id="button submit"></td>   
+
+
+
+                      </script>
+
+
+
+
+	</head>
+	<body bgcolor="yellow">
+
+	this is divsion
+
+	</body>
+	</html>
+	<table border="4">
+<tr bgcolor="cyan">
+                <td>s.no</td>
+                <td>name</td>
+</tr>
+<tr>
+<td>1</td>
+<td>shankar</td>
+</tr>
+<tr>
+<td>2</td>
+<td>madhu</td>
+</tr>
+<tr>
+<td>3</td>
+<td>mj</td>
+</tr>
+
+<a href="http://google.com" 
+target="blank">
+go to google </a>
+
+
+
+<img src="F:\PHOTOS\UTSAV\"
+
+
+
+
+	</table>
+
+	<form method="get">
+		<table border='5'>
+			<tr>
+
+                          <td>username</td>
+				<td><input type="dATE" id='123"></td>
+
+
+			</tr>
+			<tr>
+				<td>password</td>
+				<td><input type="password" id ='13564"></td>
+			</tr>
+
+		<tr>
+			<td>submit</td>
+			<td><input type ="button" value='submit' id="button submit"></td>
+
+
+
+
+
+
+	</form>
+
+
+	
+	<input list="gender">
+		<datalist id="gender">
+		<option value="male">
+			<option value="female">
+</datalist>
